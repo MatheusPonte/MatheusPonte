@@ -7,7 +7,7 @@
         </a>
         <h3>About me</h3>
         <p>
-            Hello! I'm MagicPonte, a programming student who seeks to improve his skills in the most diverse areas 👋
+            Hello! I'm Matheus Ponte, a programming student who seeks to improve his skills in the most diverse areas 👋
             <br/>
             I am passionate about games ❤
             <br/>
