@@ -12,7 +12,7 @@
             I am passionate about games ❤
             <br/>
             <br/>
-            My real name is Matheus Ponte and I'm 26 years old, currently studying Analysis and systems development.
+            My real name is Matheus Ponte and I'm 27 years old, graduate in systems analysis and currently work with RPA with python
         </p>
 </div>
 
