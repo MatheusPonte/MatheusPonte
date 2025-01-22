@@ -22,13 +22,19 @@
                 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPonte&layout=compact&langs_count=7&theme=great-gatsby"/>
         </a>
   <br>
-</div>
+
+### 🛠 &nbsp;Tech Stack
+
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-</div>
+
+
+### 🤝🏻 &nbsp;Connect with Me
+
 <br>
 <div align="center">  <a href="https://instagram.com/magicponte" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:MatheusPonte894@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
