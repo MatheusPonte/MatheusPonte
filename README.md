@@ -22,8 +22,8 @@
                 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPonte&layout=compact&langs_count=7&theme=great-gatsby"/>
         </a>
   <br>
-### 🛠 &nbsp;Tech Stack
 
+### 🛠 &nbsp;Tech Stack
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -34,6 +34,7 @@
 
 
 ### 🤝🏻 &nbsp;Connect with Me
+
 <br>
 <div align="center">  <a href="https://instagram.com/magicponte" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:MatheusPonte894@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
