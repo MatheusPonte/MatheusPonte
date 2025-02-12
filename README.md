@@ -19,7 +19,7 @@
 <div align="center">
         <a href="#">
                 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MatheusPonte&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-                <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPonte&layout=compact&langs_count=7&theme=great-gatsby"/>
+                <img height="160em" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/>
         </a>
   <br>
 
