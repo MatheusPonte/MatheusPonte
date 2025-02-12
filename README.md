@@ -19,6 +19,7 @@
 <div align="center">
         <a href="#">
                 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MatheusPonte&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+                <br>
                 <img height="160em" src="https://t3.ftcdn.net/jpg/09/21/77/68/360_F_921776853_XLLAAlmeRJLQw6pJWtlyvocY2cl6FMEv.jpg"/>
         </a>
   <br>
