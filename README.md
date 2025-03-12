@@ -24,6 +24,8 @@
 ![Spring](https://img.shields.io/badge/-spring-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117)&nbsp;
 ![Selenium](https://img.shields.io/badge/-selenium-0D1117?style=for-the-badge&logo=selenium&labelColor=0D1117)&nbsp;
 ![PostegreSQL](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
+![Playwright](https://img.shields.io/badge/-playwright-0D1117?style=for-the-badge&logo=playwright&labelColor=0D1117&textColor=0D1117)&nbsp;
+![OpenCV](https://img.shields.io/badge/-opencv-0D1117?style=for-the-badge&logo=opencv&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=c-sharp&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Studying in this moment
