@@ -1,47 +1,33 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D2691E&height=120&section=header"/>
 
-<div align="center">
-        <a href="#">
-            <h1>
-                <img src="https://img.shields.io/badge/MatheusPonte-%230d1117.svg?style=for-the-badge&logoColor=white" alt="MagicPonte Badge"/>
-            </h1>
-        </a>
-        <h3>About me</h3>
-        <p>
-            Hello! I'm Matheus Ponte, a programming student who seeks to improve his skills in the most diverse areas 👋
-            <br/>
-            I am passionate about games ❤
-            <br/>
-            <br/>
-            My real name is Matheus Ponte and I'm 27 years old, graduate in systems analysis and currently work with RPA with python
-        </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=D2691E&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Matheus;I'm+27+years+old;I'm+Software+Developer;Game+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusPonte&show_icons=true&count_private=true&hide_border=true&title_color=D2691E&icon_color=D2691E&text_color=D2691E&bg_color=0d1117" alt="Matheus Ponte github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPonte&layout=compact&hide_border=true&title_color=D2691E&text_color=D2691E&bg_color=0d1117" />
 </div>
 
-<div align="center">
-        <a href="#">
-                <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MatheusPonte&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-                <br>
-                <img height="160em" src="https://t3.ftcdn.net/jpg/09/21/77/68/360_F_921776853_XLLAAlmeRJLQw6pJWtlyvocY2cl6FMEv.jpg"/>
-        </a>
-  <br>
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusPonte&bg_color=0d1117&color=D2691E&line=D2691E&point=FF4500&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 🛠 &nbsp;Tech Stack
+  <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MatheusPonte&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+<div align="center"> 
+  <a href="https://instagram.com/MathePonte" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href = "mailto:matheusponte894@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheusponte894/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+</div>
 
+ ### Main skills
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)&nbsp;
+![Spring](https://img.shields.io/badge/-spring-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117)&nbsp;
+![Selenium](https://img.shields.io/badge/-selenium-0D1117?style=for-the-badge&logo=selenium&labelColor=0D1117)&nbsp;
+![PostegreSQL](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=c-sharp&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-          
+### Studying in this moment
+![Unity](https://img.shields.io/badge/-unity-0D1117?style=for-the-badge&logo=unity&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Game Developer](https://img.shields.io/badge/-Game%20Developer-0D1117?style=for-the-badge&logo=unity&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<br>
-<div align="center">  <a href="https://instagram.com/magicponte" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:MatheusPonte894@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/MatheusPonte894" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
-
-##
-    
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D2691E&height=120&section=footer"/>
