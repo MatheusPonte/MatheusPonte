@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D2691E&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=D2691E&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Matheus;I'm+27+years+old;I'm+Software+Developer;Game+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=D2691E&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Matheus;I'm+27+years+old;I'm+Software+Developer;Game+Developer;I'm+from+Brasil;welcome%3A)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusPonte&show_icons=true&count_private=true&hide_border=true&title_color=D2691E&icon_color=D2691E&text_color=D2691E&bg_color=0d1117" alt="Matheus Ponte github stats" /> 
